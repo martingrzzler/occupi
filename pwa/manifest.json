@@ -1,0 +1,37 @@
+{
+  "short_name": "Occupi",
+  "name": "Occupi",
+  "description": "Is the bathroom occupied?",
+  "icons": [
+    {
+      "src": "/images/icons/1024.png",
+      "type": "image/png",
+      "sizes": "1024x1024"
+    },
+    {
+      "src": "/images/icons/192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/images/icons/114.png",
+      "type": "image/png",
+      "sizes": "114x114"
+    },
+    {
+      "src": "/images/icons/40.png",
+      "type": "image/png",
+      "sizes": "40x40"
+    },
+    {
+      "src": "/images/icons/80.png",
+      "type": "image/png",
+      "sizes": "80x80"
+    }
+  ],
+  "start_url": "/index.html",
+  "background_color": "#3367D6",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#3367D6"
+}
