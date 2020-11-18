@@ -11,7 +11,7 @@ connectToBroker();
 
 
 function connectToBroker() {
-  const client = mqtt.connect('wss://kioku.ddns.net/mqtt');
+  const client = mqtt.connect('wss://occupi.dns.army/mqtt');
   const TOPIC = 'BATHROOM';
 
   client.on('message', (topic, message) => {
