@@ -31,7 +31,7 @@ Depending on your door you'll have to adjust here. You also don't have to add th
 
 ### Server Setup
 I used nginx as reverse proxy and for serving the files of the PWA front end application. In order for it to work properly you should enable tls. 
-I used certbot and lestencrypt for that matter.
+I used certbot and letsencrypt for that matter.
 
 ### Author
 - Martin Gressler - [@martingrzzler](https://github.com/martingrzzler)
